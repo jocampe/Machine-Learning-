@@ -1,2 +1,4 @@
-# Naive-Bayes
-Naive Bayes Algorithm in Python using iris dataset
+# Machine-Learning Algorithms in Python
+- Diferential Evolution
+- K nearest neighbors
+- Naive Bayes
